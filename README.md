@@ -1,6 +1,8 @@
 lapisangularis/alpine
 ========================
 
+[![Build Status](https://img.shields.io/docker/cloud/build/lapisangularis/alpine)(https://hub.docker.com/r/lapisangularis/alpine/builds)]
+
 This repository contains the sources for the following [docker](https://docker.io) base images:
 - [`lapisangularis/alpine`]
 
