@@ -1,6 +1,11 @@
 lapisangularis/alpine
 ========================
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/lapisangularis/alpine)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/lapisangularis/alpine)](https://hub.docker.com/r/lapisangularis/alpine)
+[![Docker Pulls](https://img.shields.io/docker/pulls/lapisangularis/alpine)](https://hub.docker.com/r/lapisangularis/alpine)
+[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/lapisangularis/alpine)](https://hub.docker.com/r/lapisangularis/alpine)
+[![GitHub](https://img.shields.io/github/license/lapisangularis/alpine)](https://github.com/lapisangularis/alpine/blob/master/LICENSE)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lapisangularis/alpine)](https://github.com/lapisangularis/alpine/tags)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/lapisangularis/alpine)](https://hub.docker.com/r/lapisangularis/alpine)
 
 This repository contains the sources for the following [docker](https://docker.io) base images:
 - [`lapisangularis/alpine`]
